@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hari Kiran Penumudi,
+- 👋 Hi, I’m Hari Kiran,
 - 👀 A Data Enthusiast,
 - 🌱 Currently Upskilling in Data Science & ML,  
 - 💞️ I’m looking for an Oppurtunity to put my skills in action,
