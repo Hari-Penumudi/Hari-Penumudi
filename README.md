@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hari Kiran,
 - 👀 A Data Enthusiast,
 - 🌱 Currently Upskilling in Data Science & ML,  
-- 💞️ I’m looking for an Oppurtunity to put my skills in action,
+- 💞️ I’m looking for an Oppurtunity to put my skills into action,
 - 📫 Do not hesitate to reach me out on https://www.linkedin.com/in/hari-kiran-offcial/ .
 
 <!---
