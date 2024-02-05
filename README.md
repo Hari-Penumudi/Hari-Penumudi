@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Hari Kiran,
-- 👀 A Data Enthusiast,
+- 👀 A Data Enthusiast, 
 - 🌱 Currently Upskilling in Data Science & ML,  
-- 💞️ I’m looking for an Oppurtunity to put my skills into action,
+- 💞️ Experienced business analyst with 3 years of hands-on experience in data analysis, market research, and project management. Skilled in translating business requirements into technical       solutions, conducting thorough data analysis to drive informed decision-making, and collaborating with cross-functional teams to achieve business goals. Proven track record of              delivering actionable insights and implementing process improvements. Currently seeking new opportunities to apply my analytical skills and contribute to the success of a dynamic     
+      organization."
 - 📫 Do not hesitate to reach me out on https://www.linkedin.com/in/hari-kiran-offcial/ .
 
 <!---
